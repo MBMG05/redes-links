@@ -1,0 +1,93 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 720px;
+    height: auto;
+text-align: center;
+margin: auto;
+background-color: rgb(0, 0, 0);
+}
+a:-webkit-any-link{
+    color: rgb(177, 244, 253);
+}
+
+
+/*********imagenes********/
+.imagen-perfil-principal{
+    border:2px white;
+}
+
+/**************************************/
+
+
+/*******divisiones de redes*********/
+.discord{
+    padding: 20px;
+    background-color:#7289DA;
+    max-width: 720px;
+    border-radius: 20px;
+    margin: auto;
+}
+.instagram{
+    padding: 20px;
+    background: linear-gradient(
+        45deg
+        ,#f09433,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888);
+    max-width: 720px;
+    border-radius: 20px;
+    margin: auto;
+}
+.facebook{
+    padding: 20px;
+    background-color:#3A5795;
+    max-width: 720px;
+    border-radius: 20px;
+    margin: auto;
+}
+.github{
+    padding: 20px;
+    background-color: #171515;;
+    max-width: 720px;
+    border-radius: 20px;
+    margin: auto;
+}
+.twitter{
+    padding: 20px;
+    background-color:#00B9FF;
+    max-width: 720px;
+    border-radius: 20px;
+    margin: auto;
+}
+/**************************************/
+p{
+    padding: 200px;
+color: white;
+display: inline;
+    text-align: center;
+}
+.titulo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*******iconos*********/
+i{
+    
+    font-size: 50px;    
+    color: rgb(255, 255, 255);
+}
+/*********************/
+
+/*******titulos*********/
+h1{
+    display: inline;
+    font-size:45px;
+    color: rgb(255, 255, 255);
+}
+h2{
+    color: white;
+}
+h3{
+    color:white;
+}
+/*********************/
